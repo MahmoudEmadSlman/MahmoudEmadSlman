@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Emad Slman
 - 👀 I’m interested in ...C++ & python & Matlab & ML programming .
-- 🌱 I’m currently learning ...Machine learning and Pytho .
+- 🌱 I’m currently learning ...Machine learning and Python .
 - 📫 How to reach me ...Linkedin : www.linkedin.com/in/mahmoud-slman
 
 <!---
