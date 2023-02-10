@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mahmoud Emad Slman
-- 👀 I’m interested in ...C++ & python & Matlab & ML programming .
-- 🌱 I’m currently learning ...Machine learning and Python .
-- 📫 How to reach me ...Linkedin : www.linkedin.com/in/mahmoud-slman
+Hi, I’m Mahmoud Emad Slman
+- Mechatronics Engineering Student .
+- interested in AI & Machine learning .
+- My Linkedin account : www.linkedin.com/in/mahmoud-slman
 
 <!---
 MahmoudEmadSlman/MahmoudEmadSlman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
