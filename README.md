@@ -1,6 +1,6 @@
 Hi, I’m Mahmoud Emad Slman
 - Mechatronics Engineering Student .
-- interested in AI & Machine learning .
+- interested in AI, Robotics and Cloud  .
 - My Linkedin account : www.linkedin.com/in/mahmoud-slman
 
 <!---
