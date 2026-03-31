@@ -1,6 +1,7 @@
 Hi, I’m Mahmoud Emad Slman
 - Mechatronics Engineering Student .
 - interested in AI, Robotics and Cloud  .
+- Email : eng.mahmoud.slman@gmail.com
 - My Linkedin account : www.linkedin.com/in/mahmoud-slman
 
 <!---
